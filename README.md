@@ -11,9 +11,6 @@ Clean and minimalist ecommerce product page designed in Figma for iPhone 16.
 ## Figma prototype
 [View Live in Figma]([https://www.figma.com/design/HDzENJYfGccuLJdFXjhc5R/Ecommerce-Product-Page-Mobile-iPhone-16-mini-project?node-id=128-133&m=dev&t=pPIEY3QGrUlzXVU7-1](https://www.figma.com/proto/HDzENJYfGccuLJdFXjhc5R/Ecommerce-Product-Page-Mobile-iPhone-16-mini-project?node-id=128-133&t=pPIEY3QGrUlzXVU7-1))
 
-## Screenshots
-![Product Page](https://1drv.ms/i/c/8b67849d79d98bc4/IQB7OLLFciqxTIXvRLosiOiUAQqvfbbQEGW4GdTEVhDKiV4?e=ig17Zf)
-
 ## Features
 - Soft beige, cream & soft green color palette
 - Swipeable hero gallery with texture close-ups
